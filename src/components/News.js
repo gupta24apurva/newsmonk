@@ -26,6 +26,7 @@ const News=(props)=>{
 
     useEffect(()=>{
       update();
+      // eslint-disable-next-line
     },[])
 
     const fetchData=async ()=>{
