@@ -6,7 +6,7 @@ import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
 
 const App=()=>{
 
-  const apiKey=d7a23a47305e444c8319dd7cf38f1da1;
+  const apiKey="d7a23a47305e444c8319dd7cf38f1da1";
 
     return (
       <div>
